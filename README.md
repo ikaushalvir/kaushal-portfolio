@@ -1,6 +1,6 @@
 # This is a Portfolio Website.
 ## For NEOGCAMP
-
+### Thank You Tanay :)
 Here are some of my skills.
 
 1. HTML-5
@@ -9,3 +9,4 @@ Here are some of my skills.
 1. nodeJS
 1. GIT
 1. GITHUB
+
